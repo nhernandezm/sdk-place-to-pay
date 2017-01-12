@@ -2,7 +2,7 @@
     "name": "placetopay/sdk-place-to-pay",
     "description": "The PlaceToPlay SDK provides methods for all API functions.",
     "require": {
-        "php": "^5.6|^7.0"
+        "php":"^5.6"
     },
     "autoload": {
         "psr-0": {
